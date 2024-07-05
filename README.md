@@ -17,6 +17,8 @@ mlagents-learn Penalty/Assets/config/configuration.yaml --run-id=Penalty
 ```bash
 tensorboard --logdir=Penalty/results
 ```
+## Demo
+[![Watch the video](https://raw.githubusercontent.com/naruto-raj/Penalty/main/thumbnail.jpg)](https://raw.githubusercontent.com/naruto-raj/Penalty/main/Demo.mp4)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
